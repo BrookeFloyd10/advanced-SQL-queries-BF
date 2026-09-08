@@ -1,1 +1,3 @@
-# advanced-SQL-queries-BF
+I learned a lot about advanced queries and how to use them when working with MySQL. I learned about using the various types of joins to combine tables, such as inner join, left join, right join, cross join, and full join. I learned how to use HAVING and GROUP BY to group data and filter the results. I learned about the various types of subqueries, such as table subqueries and column subqueries, that can be used to get specific information from another query. I also learned about aggregate functions such as COUNT, SUM, AVG, MAX, and MIN for creating calculated fields that take the values of grouped rows and combine them.
+
+One of the things I have found to be most challenging when it comes to queries is knowing which type of query/function to use aiming for a specific result. I start to get a bit confused about the structure as the queries become more complex and start using joins, subqueries, and aggregate functions together.
